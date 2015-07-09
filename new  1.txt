@@ -1,3 +1,6 @@
 add new 
 
 test git
+
+git is a distributed version control sys.
+git is free software.
