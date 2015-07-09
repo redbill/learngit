@@ -7,3 +7,5 @@ git is free software.
 
 git log
 git log --pretty=oneline
+
+git rest --hard 
