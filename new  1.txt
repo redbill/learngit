@@ -4,3 +4,6 @@ test git
 
 git is a distributed version control sys.
 git is free software.
+
+git log
+git log --pretty=oneline
